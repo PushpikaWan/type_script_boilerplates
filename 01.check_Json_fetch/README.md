@@ -14,4 +14,16 @@ then we can run
 ts-node index.ts
 ```
 
-# 
+#initalize npm
+
+```
+npm init -y
+````
+
+#  Tools
+
+tools to helps us run typescript code on browser
+
+```
+npm install -g parcel-bundler
+```
